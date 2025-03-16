@@ -1,0 +1,8 @@
+scikit-learn
+transformers
+spacy
+PyPDF2
+python-docx
+pytesseract
+pillow
+googletrans==4.0.0-rc1
